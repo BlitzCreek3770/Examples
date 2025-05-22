@@ -1,5 +1,5 @@
 /* 
- Delta College/Team 3770 Robotics Programming
+ Team 3770 Robotics Programming
  Example: TankDrive
  Basic robot tank drive.  Includes direct access to controller y-axis values
  to set respective motor speeds.  Left and right motors work independently.
